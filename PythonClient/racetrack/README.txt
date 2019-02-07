@@ -1,0 +1,1 @@
+I followed the work of Maciek Dziubiński (https://medium.com/asap-report/introduction-to-the-carla-simulator-training-a-neural-network-to-control-a-car-part-1-e1c2c9a056a5) (https://github.com/asap-report/carla.git) for the racetrack
